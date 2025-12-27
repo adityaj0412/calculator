@@ -1,74 +1,29 @@
-🧮 Modern Web Calculator
-A sleek, responsive, and fully functional web-based calculator. This project is built using vanilla web technologies and provides a clean user interface for performing basic arithmetic operations.
+# Calculator
 
-🚀 Features
-Basic Arithmetic: Supports addition, subtraction, multiplication, and division.
+A simple, clean, and interactive **Calculator Web App** built with core web technologies.  
+This project demonstrates basic arithmetic functionality with an intuitive user interface, perfect for learning DOM manipulation and UI logic in JavaScript.
 
-Responsive Design: Optimized for both desktop and mobile screens.
+## Live Demo
 
-Glassmorphism UI: A modern look with smooth transitions and hover effects.
+👉 https://adityaj0412.github.io/calculator/
 
-Keyboard Support: (Optional) Allows users to input numbers and operators via their keyboard.
+## About The Project
 
-Clear & Delete: Functions to clear the entire screen or delete the last character.
+This is a basic calculator application that supports standard arithmetic operations such as addition, subtraction, multiplication, and division. It is designed with simplicity and usability in mind — ideal for educational purposes or as a starting point for more advanced calculator projects.
 
-🛠️ Built With
-HTML5: Semantic structure of the calculator.
+## Built With
 
-CSS3: Custom styling using Flexbox/Grid and CSS variables for theming.
+- **HTML5** — Structure of the calculator  
+- **CSS3** — Styling and layout  
+- **JavaScript** — Core logic for calculations and interactions
 
-JavaScript (ES6): Logic for mathematical calculations and UI updates.
+## 🛠 Features
 
-📸 Preview
-(Add a screenshot of your project here to make the README pop!)
+- Basic arithmetic: `+`, `-`, `×`, `÷`  
+- Clear / Reset  
+- Backspace  
+- Easy and intuitive UI  
+- Responsive layout for different screen sizes
 
-💻 Getting Started
-Installation
-Clone the repository:
-
-Bash
-
-git clone https://github.com/adityaj0412/calculator.git
-Navigate to the directory:
-
-Bash
-
-cd calculator
-Run the app: Simply open the index.html file in any modern web browser.
-
-📂 Project Structure
-Plaintext
-
-calculator/
-│
-├── index.html       # The main structure
-├── style.css        # The styling and layout
-├── script.js        # Mathematical logic
-└── assets/          # (Optional) Icons or background images
-📝 How to Use
-Click on the numbers to input values.
-
-Select an operator (+, -, *, /).
-
-Press the = button to see the result.
-
-Use C or AC to clear the display.
-
-🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create.
-
-Fork the Project.
-
-Create your Feature Branch (git checkout -b feature/NewFeature).
-
-Commit your Changes (git commit -m 'Add some NewFeature').
-
-Push to the Branch (git push origin feature/NewFeature).
-
-Open a Pull Request.
-
-👤 Author:
-Aditya kumar * GitHub: @adityaj0412
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Author
+ Aditya
