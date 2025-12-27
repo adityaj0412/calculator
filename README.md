@@ -67,7 +67,7 @@ Push to the Branch (git push origin feature/NewFeature).
 
 Open a Pull Request.
 
-👤 Author
+👤 Author:
 Aditya kumar * GitHub: @adityaj0412
 
 📄 License
